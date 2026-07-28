@@ -21,4 +21,4 @@
 - 🎓 Student Management System (C++)
 
 ### 🌐 Connect with me
-- LinkedIn: (Add your LinkedIn profile link here)
+www.linkedin.com/in/abira-adil-55ab2238a
