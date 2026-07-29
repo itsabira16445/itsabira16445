@@ -13,7 +13,7 @@
 
 ### 📜 Certifications
 - Cisco Networking Academy – Introduction to Cybersecurity
-- ![Cisco Networking Academy Badge](cisco-badge.png)
+  ![Cisco Networking Academy Badge](cisco-badge.png.png)
 - HP LIFE – AI for Beginners
 
 ### 📂 Projects
